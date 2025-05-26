@@ -48,11 +48,11 @@ Feel free to reach out and collaborate:
 ---
 
 ### 🎭 Projects & Highlights
-- **[Aug 2023 - May 2024] [An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA](https://github.com/kemar-christie/An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA)**: A research project analysing operational inefficiencies in Jamaica's NSWMA, proposing IoT-driven solutions to optimise garbage collection and improve waste management operations.
-
-- **[Feb 2025 - Present] [ABPL-A-Booking-Programming-Language](https://github.com/kemar-christie/ABPL-A-Booking-Programming-Language)**: A project based on developing a natural language-inspired programming language (ABPL) to simulate real-time bookings, using PLY for language parsing and the Gemini API for dynamic event and transportation data integration.
-
 - **[May 2025 - Present] [Iris-Classifier-API](https://github.com/kemar-christie/Iris-Classifier-API)**: A project focused on building a classification pipeline using the Iris dataset, applying machine learning techniques to predict flower species based on sepal and petal measurements.
 
+- **[Feb 2025 - Present] [ABPL-A-Booking-Programming-Language](https://github.com/kemar-christie/ABPL-A-Booking-Programming-Language)**: A project based on developing a natural language-inspired programming language (ABPL) to simulate real-time bookings, using PLY for language parsing and the Gemini API for dynamic event and transportation data integration.
+  
+- **[Aug 2023 - May 2024] [An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA](https://github.com/kemar-christie/An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA)**: A research project analysing operational inefficiencies in Jamaica's NSWMA, proposing IoT-driven solutions to optimise garbage collection and improve waste management operations.
+  
 
 Thank you for stopping by! Let's connect and build something awesome together. 🚀
