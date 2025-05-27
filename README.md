@@ -9,7 +9,7 @@ Hello! My name is **Kemar Christie**. I am an aspiring **Cloud Solution Architec
 ### About Me
 - 🌐 Based in **Kingston, Jamaica**, I am currently pursuing a **BSc in Computing** degree at the University of Technology, Jamaica.
 - 💡 Passionate about **exploring AI-driven cloud technologies** and expanding my knowledge in **Cloud Solutions**.
-- ✏️ I enjoy **researching emerging technologies, listening to tech podcasts, and diving into AI development**.
+- ✏️ I enjoy **researching emerging technologies, listening to tech podcasts, and diving into AI/Cloud development**.
 - 🤝 Committed to **mentoring and guiding youth in tech**.
 
 ---
@@ -19,13 +19,14 @@ Hello! My name is **Kemar Christie**. I am an aspiring **Cloud Solution Architec
 - 📜 **Scripting Languages:** Bash, PowerShell
 - ⚙️ **Databases:** PostgreSQL, MySQL, MongoDB, Neon, Supabase
 - ☁️ **Cloud Computing:** AWS, Google Cloud Platform (GCP)
-- 🛠️ **Tools:** ChatGPT, Microsoft Copilot, Github, Git, YAML, JSON, Draw.io
+- 🧪 **Testing & Automation:** Selenium, JUnit
+- 🛠️ **Tools:** ChatGPT, Microsoft Copilot, GitHub, Git, YAML, JSON, Draw.io
 
 ---
 
 ### Current Focus
 - 🚀 Building expertise in **Cloud Technologies** and **Cloud Infrastructure**.
-- 🔧 Enhancing skills in **Specified Programming Languages**, **Scripting Languages**, **Databases**, **Cloud Computing** & **Tools**
+- 🔧 Enhancing skills in **Specified Programming Languages**, **Scripting Languages**, **Databases**, **Cloud Computing**, **Testing & Automation** & **Tools**
 - 🎨 Working on **real-world projects that leverage AI-powered solutions**.
 
 ---
