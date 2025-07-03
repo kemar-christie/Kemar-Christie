@@ -2,7 +2,7 @@
 
 ![GITHUB MAIN   RESIZED](https://github.com/user-attachments/assets/7d1b2614-7d25-4804-b274-31c327c509bb)
 
-Hello! My name is **Kemar Christie**. I am an aspiring **Cloud Solution Architect** passionate about designing scalable and efficient cloud infrastructures that bridge the gap between technical innovation and real-world applications. With a keen interest in exploring **cutting-edge AI technologies, cloud solutions, and a strong commitment to continuous learning**, I strive to build **future-ready** cloud architectures that empower businesses and individuals alike.
+**Kemar Christie** is an emerging **Cloud Solution Architect** with **2+ years** of relevant experience in **cloud technologies, specializing in designing scalable, serverless architectures using AWS and Google Cloud Platform**. His background includes hands-on development of **REST APIs, automation workflows, and database systems using Python, FastAPI, and PostgreSQL**. Known for **rapid learning and collaborative problem-solving**, he has deployed ML-powered APIs and integrated AI tools like Gemini into real-time applications. He brings a strong foundation in cloud infrastructure, API design, and cross-platform system integration.
 
 ---
 
