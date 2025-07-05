@@ -1,6 +1,6 @@
 # Hi there 👋, Welcome!
 
-![GITHUB MAIN   RESIZED](https://github.com/user-attachments/assets/7d1b2614-7d25-4804-b274-31c327c509bb)
+![GITHUB MAIN   RESIZED](https://github.com/user-attachments/assets/2335efd5-9d6c-4dcf-b311-81373c21f75e)
 
 Eager and detail-oriented **Quality Assurance Engineer Intern** with a solid foundation in **software testing principles and a passion for ensuring application quality**. Brings a strong academic background in **automated and manual testing methodologies**, with knowledge of tools such as **Selenium WebDriver and JUnit**. Proficient in a variety of technologies including **Python, SQL, and scripting with Bash and Powershell**. Familiar with diverse database systems like **PostgreSQL, MySQL, and MongoDB**, as well as cloud environments like **Google Cloud Platform (GCP)**. A quick learner and collaborative team player, prepared to leverage issue tracking tools like **Jira** and version control systems such as **Git and GitHub** to help identify, document, and resolve defects.
 
