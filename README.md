@@ -40,10 +40,6 @@ Eager and detail-oriented **Quality Assurance Engineer Intern** with a solid fou
 ### Connect with Me
 Feel free to reach out and collaborate:
 - [LinkedIn](https://www.linkedin.com/in/kemar-christie/)  👤
-- [Twitter](https://x.com/kxng_christie)  🕊️
-- [Instagram](https://www.instagram.com/kxng.christie/)  💬
-- [Facebook](https://www.facebook.com/kemar.christie.739?mibextid=LQQJ4d)  🔵
-- [Discord](https://discordapp.com/users/509862919484342283)  🟣
 
 ---
 
