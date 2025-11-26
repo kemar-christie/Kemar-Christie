@@ -11,6 +11,9 @@ Eager and detail-oriented **Quality Assurance Engineer Intern** with a solid fou
 - 💡 Passionate about **exploring cloud technologies** and **expanding my knowledge in Cloud Solutions**, with a growing foundation in **Quality Assurance (QA)** and a keen eye for **software reliability** and **performance testing**.
 - ✏️ I enjoy **researching** emerging technologies, **listening** to tech podcasts, **exploring** the Cloud, and **following** QA development trends.
 - 🤝 Committed to **mentoring and guiding youth in tech**.
+- 🔊 I love **listening to tech podcasts** for daily inspiration and insights into technological advancements.
+- 🚨 My dream is to **Bridge the gap between Cloud solutions innovation and accessible tech solutions**.
+- ☀️ You can call me "**Kemar**"!
 
 ---
 
@@ -31,13 +34,6 @@ Eager and detail-oriented **Quality Assurance Engineer Intern** with a solid fou
 - 🚀 Building expertise in **Cloud Technologies**, **Cloud Infrastructure**, and developing a solid foundation in **Quality Assurance (QA)** with an emphasis on **software testing and issue tracking**.
 - 🎨 Working on **real-world projects that leverage Cloud-powered solutions**, with growing involvement in **QA processes to ensure functionality, reliability, and performance**.
 - 🔧 Enhancing skills in **Specified Programming Languages**, **Scripting Languages**, **Databases**, **Cloud Computing**, **Testing & Automation**, **CI/CD & DevOps Tools**, **Platforms**, **Issue Tracking** & **Tools**
-
----
-
-### Fun Facts About Me
-- 🔊 I love **listening to tech podcasts** for daily inspiration and insights into technological advancements.
-- 🚨 My dream is to **Bridge the gap between Cloud solutions innovation and accessible tech solutions**.
-- ☀️ You can call me "**Kemar**"!
 
 ---
 
