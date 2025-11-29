@@ -1,6 +1,6 @@
 # Hi there 👋, Welcome!
 
-<img width="1001" height="590" alt="GITHUB MAIN   RESIZED" src="https://github.com/user-attachments/assets/8198909d-9226-4f79-a815-1650892bbe74" />
+<img width="3129" height="1845" alt="GITHUB MAIN   RESIZED" src="https://github.com/user-attachments/assets/8aaa18b3-3281-47c7-949e-328b08e461ed" />
 
 Eager and detail-oriented **Quality Assurance Engineer Intern** with a solid foundation in **software testing principles and a passion for ensuring application quality**. Brings a strong academic background in **automated and manual testing methodologies**, with knowledge of tools and libraries including **Selenium WebDriver (Java), Appium, JUnit, TestNG, REST Assured, Retrofit, OkHttp, Postman, Newman CLI, Charles Proxy, and Allure**, as well as CI/CD tools like **Jenkins** and **Docker**. Proficient in a variety of technologies, including **Python, Java, SQL, and scripting with Bash and Powershell**. Familiar with diverse database systems like **PostgreSQL, MySQL, and MongoDB**, as well as cloud environments like **Google Cloud Platform (GCP)**. A collaborative team player who can use design tools like **Draw.io and Figma** to validate UI/UX specifications, while leveraging **Jira, Git, and GitHub** to identify, document, and resolve defects effectively.
 
