@@ -2,7 +2,7 @@
 
 <img width="3124" height="1845" alt="My Business Card MAIN   RESIZED (GitHub Readme Background)" src="https://github.com/user-attachments/assets/543af55c-1705-4829-bacb-dc6ab9b86b5f" />
 
-Eager and detail-oriented **Quality Assurance Engineer Intern** at **Grid Dynamics** with a solid foundation in **software testing principles and a passion for ensuring application quality**. Brings a strong academic background in **automated and manual testing methodologies**, with knowledge of tools and libraries including **Selenium WebDriver (Java), Appium, JUnit, TestNG, REST Assured, Retrofit, OkHttp, Postman, Newman CLI, Charles Proxy, and Allure**, as well as CI/CD tools like **Jenkins** and **Docker**. Proficient in a variety of technologies, including **Python, Java, SQL, and scripting with Bash and Powershell**. Familiar with diverse database systems like **PostgreSQL, MySQL, and MongoDB**, as well as cloud environments like **Google Cloud Platform (GCP)**. A collaborative team player who can use design tools like **Draw.io and Figma** to validate UI/UX specifications, while leveraging **Jira, Git, and GitHub** to identify, document, and resolve defects effectively.
+Eager and detail-oriented **Quality Assurance Engineer Intern** at **Grid Dynamics** with a solid foundation in **software testing principles and a passion for ensuring application quality**. Brings a strong academic background in **automated and manual testing methodologies**, with knowledge of tools and libraries including **Selenium WebDriver (Java), Appium, JUnit, TestNG, REST Assured, Retrofit, OkHttp, Owner, Postman, Newman CLI, Charles Proxy, and Allure**, as well as CI/CD tools like **Jenkins** and **Docker**. Proficient in a variety of technologies, including **Python, Java, SQL, and scripting with Bash and Powershell**. Familiar with diverse database systems like **PostgreSQL, MySQL, and MongoDB**, as well as cloud environments like **Google Cloud Platform (GCP)**. A collaborative team player who can use design tools like **Draw.io and Figma** to validate UI/UX specifications, while leveraging **Jira, Git, and GitHub** to identify, document, and resolve defects effectively.
 
 ---
 
@@ -22,7 +22,7 @@ Eager and detail-oriented **Quality Assurance Engineer Intern** at **Grid Dynami
 - 📜 **Scripting Languages:** Bash, PowerShell
 - 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB
 - ☁️ **Cloud Computing:** Google Cloud Platform (GCP)
-- 🧪 **Testing & Automation:** Selenium WebDriver (Java), Appium, JUnit, TestNG, REST Assured, Retrofit, OkHttp, Postman, Newman CLI, Charles Proxy, Allure
+- 🧪 **Testing & Automation:** Selenium WebDriver (Java), Appium, JUnit, TestNG, REST Assured, Retrofit, OkHttp, Owner, Postman, Newman CLI, Charles Proxy, Allure
 - ⚙️ **CI/CD & DevOps Tools:** Jenkins, Docker
 - 🧱 **Platforms:** Mac OS, Windows
 - 📝 **Issue Tracking:** Jira
