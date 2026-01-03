@@ -2,7 +2,7 @@
 
 <img width="999" height="589" alt="My Business Card MAIN (LinkedIn Background)" src="https://github.com/user-attachments/assets/bc7dabd7-9dc7-46d8-8fa3-650e723266cc" />
 
-Eager and detail-oriented **Aspiring Junior Quality Assurance Engineer** with a solid foundation in **software testing principles and a passion for ensuring application quality**. Brings a strong academic background in **automated and manual testing methodologies**, with knowledge of tools and libraries including **Selenium WebDriver (Java), Appium, JUnit, TestNG, REST Assured, Retrofit, OkHttp, Owner, Postman, Newman CLI, Charles Proxy, and Allure**, as well as CI/CD tools like **Jenkins** and **Docker**. Proficient in a variety of technologies, including **Python, Java, SQL, and scripting with Bash and PowerShell**. Familiar with diverse database systems like **PostgreSQL, MySQL, and MongoDB**, as well as cloud environments like **Google Cloud Platform (GCP)**. A collaborative team player who can use design tools like **Draw.io and Figma** to validate UI/UX specifications, while leveraging **Jira, Git, and GitHub** to identify, document, and resolve defects effectively.
+Eager and detail-oriented **Aspiring Junior Quality Assurance Engineer** with a solid foundation in **software testing principles and a passion for ensuring application quality**. Brings a strong academic background in **automated and manual testing methodologies**, with knowledge of tools and libraries including **Selenium WebDriver, Appium, JUnit, TestNG, REST Assured, Retrofit, OkHttp, Owner, Postman, Newman CLI, Charles Proxy, and Allure**, as well as CI/CD tools like **Jenkins** and **Docker**. Proficient in a variety of technologies, including **Python, Java, SQL, and scripting with Bash and PowerShell**. Familiar with diverse database systems like **PostgreSQL, MySQL, and MongoDB**, as well as cloud environments like **Google Cloud Platform (GCP)**. A collaborative team player who can use design tools like **Draw.io and Figma** to validate UI/UX specifications, while leveraging **Jira, Git, and GitHub** to identify, document, and resolve defects effectively.
 
 ---
 
@@ -22,7 +22,7 @@ Eager and detail-oriented **Aspiring Junior Quality Assurance Engineer** with a 
 - 📜 **Scripting Languages:** Bash, PowerShell
 - 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB
 - ☁️ **Cloud Computing:** Google Cloud Platform (GCP)
-- 🧪 **Testing & Automation:** Selenium WebDriver (Java), Appium, JUnit, TestNG, REST Assured, Retrofit, OkHttp, Owner, Postman, Newman CLI, Charles Proxy, Allure
+- 🧪 **Testing & Automation:** Selenium WebDriver, Appium, JUnit, TestNG, REST Assured, Retrofit, OkHttp, Owner, Postman, Newman CLI, Charles Proxy, Allure
 - ⚙️ **CI/CD & DevOps Tools:** Jenkins, Docker
 - 🧱 **Platforms:** Mac OS, Windows
 - 📝 **Issue Tracking:** Jira
