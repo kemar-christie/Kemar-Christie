@@ -12,7 +12,6 @@ Eager and detail-oriented aspiring **Junior Quality Assurance Engineer** with a 
 - ✏️ I enjoy **researching** emerging technologies, **listening** to tech podcasts, **exploring** the Cloud, and **following** QA development trends.
 - 🤝 Committed to **mentoring and guiding youth in tech**.
 - 🔊 I love **listening to tech podcasts** for daily inspiration and insights into technological advancements.
-- 🚨 My dream is to **Bridge the gap between Cloud solutions innovation and accessible tech solutions**.
 - ☀️ You can call me "**Kemar**"!
 
 ---
