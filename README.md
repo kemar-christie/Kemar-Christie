@@ -33,7 +33,6 @@ Eager and detail-oriented aspiring **Junior Quality Assurance Engineer** with a 
 
 ### Current Focus
 - 🚀 Building expertise in **Cloud Technologies**, **Cloud Infrastructure**, and developing a solid foundation in **Quality Assurance (QA)** with an emphasis on **software testing and issue tracking**.
-- 🎨 Working on **real-world projects that leverage Cloud-powered solutions**, with growing involvement in **QA processes to ensure functionality, reliability, and performance**.
 
 ---
 
