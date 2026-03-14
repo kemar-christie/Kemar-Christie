@@ -25,7 +25,7 @@ Detail-oriented and highly motivated aspiring **Junior Quality Assurance Enginee
 - ⚙️ **CI/CD & DevOps Tools:** Jenkins, Docker
 - 🤖 **AI Tools:** Claude Code, GitHub Copilot
 - 🛠️ **Developer & Collaboration Tools:** Jira, Git, GitHub, Draw.io, Figma
-- 🧱 **Operating Systems:** macOS, Windows
+- 🧱 **Operating Systems:** MacOS, Windows
 
 ---
 
