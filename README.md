@@ -8,8 +8,8 @@ Detail-oriented and highly motivated aspiring **Junior Quality Assurance Enginee
 
 ### About Me
 - 🌐 Based in **Kingston, Jamaica**, I graduated from the **University of Technology, Jamaica (UTech)**, holding a **Bachelor of Science (BSc.) in Computing**, with a major in **Computer Science**.
-- 💡 Passionate about **exploring cloud technologies** and **expanding my knowledge in Cloud Solutions**, with a growing foundation in **Quality Assurance (QA)** and a keen eye for **software reliability** and **performance testing**.
-- ✏️ I enjoy **researching** emerging technologies, **listening** to tech podcasts, **exploring** the Cloud, and **following** QA development trends.
+- 💡 Passionate about **expanding my knowledge in Quality Assurance (QA)**, with a growing foundation in **Manual & Automated Testing** and a keen eye for **software reliability** and **performance testing**.
+- ✏️ I enjoy **researching** emerging technologies, **listening** to tech podcasts, and **following** QA development trends.
 - 🤝 Committed to **mentoring and guiding youth in tech**.
 - 🔊 I love **listening to tech podcasts** for daily inspiration and insights into technological advancements.
 - ☀️ You can call me "**Kemar**"!
@@ -30,7 +30,7 @@ Detail-oriented and highly motivated aspiring **Junior Quality Assurance Enginee
 ---
 
 ### Current Focus
-- 🚀 Building expertise in **Cloud Technologies**, **Cloud Infrastructure**, and developing a solid foundation in **Quality Assurance (QA)** with an emphasis on **software testing and issue tracking**.
+- 🚀 Building expertise in **Quality Assurance (QA)** with an emphasis on **software testing and issue tracking**.
 
 ---
 
