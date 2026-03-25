@@ -21,7 +21,7 @@ Detail-oriented and highly motivated aspiring **Junior Quality Assurance Enginee
 - 📜 **Scripting Languages:** Bash, PowerShell
 - 🗄️ **Databases:** PostgreSQL, MySQL
 - ☁️ **Cloud Computing Tools:** Google Cloud Platform (GCP)
-- 🧪 **Testing & Automation Tools:** Playwright, Appium, Selenium WebDriver, Cucumber, REST Assured TestNG, JUnit, Postman, Newman CLI, Charles Proxy, Allure
+- 🧪 **Testing & Automation Tools:** Playwright, Appium, Selenium WebDriver, Cucumber, REST Assured, TestNG, JUnit, Postman, Newman CLI, Charles Proxy, Allure
 - ⚙️ **CI/CD & DevOps Tools:** Jenkins, Docker
 - 🤖 **AI Tools:** Claude Code, GitHub Copilot
 - 🛠️ **Developer & Collaboration Tools:** Jira, Git, GitHub, Draw.io, Figma
