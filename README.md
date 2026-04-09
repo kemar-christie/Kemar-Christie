@@ -2,7 +2,7 @@
 
 <img width="1000" height="585" alt="My Business Card MAIN   RESIZED (GitHub Readme Background)" src="https://github.com/user-attachments/assets/ebab5617-ffac-4227-ab7b-57369ea44815" />
 
-Detail-oriented and highly motivated **Junior Quality Assurance Engineer** with a solid foundation in **software testing principles and a strong focus on delivering high-quality applications**. Experienced in both **manual and automated testing**, with hands-on exposure to tools such as **Playwright, Appium, Selenium WebDriver, Cucumber, REST Assured, TestNG, JUnit, Postman, Newman CLI, Charles Proxy, and Allure**. Proficient in **Java, JavaScript, TypeScript, and SQL**, with additional scripting experience in **Bash** and **PowerShell**. Knowledgeable in CI/CD pipelines and DevOps practices using tools such as **Jenkins** and **Docker**, and familiar with cloud environments, including **Google Cloud Platform (GCP)**. Familiar with relational databases such as **PostgreSQL** and **MySQL**. A collaborative team player with experience using **Jira, Git, and GitHub** for defect tracking and version control, and tools like **Draw.io** and **Figma** to support UI/UX validation. Skilled at leveraging AI tools such as **Claude Code** and **GitHub Copilot** to improve testing workflows, automation efficiency, and development productivity.
+Detail-oriented **Junior Quality Assurance Engineer** with **1 year** of hands-on experience in **software testing and a strong focus on delivering high-quality applications**. Experienced in both **manual** and **automated** testing across **web** and **mobile** platforms, with practical exposure to tools such as **Playwright, Appium, Selenium WebDriver, Cucumber, and REST Assured**. Proficient in **Java, JavaScript, TypeScript, and SQL**, with additional scripting experience in **Bash** and **PowerShell**. Knowledgeable in CI/CD pipelines and DevOps practices, with experience in cloud environments including **Google Cloud Platform (GCP)**. A collaborative team player with experience using **Jira, Git, and GitHub** for defect tracking and version control, and design tools to support UI/UX validation. Skilled at leveraging AI tools to improve testing workflows, automation efficiency, and development productivity.
 
 ---
 
@@ -39,9 +39,5 @@ Feel free to reach out and collaborate:
 - [LinkedIn](https://www.linkedin.com/in/kemar-christie/)  👤
 
 ---
-
-### 🎭 Projects & Highlights  
-- **[Aug 2023 - May 2024] [An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA](https://github.com/kemar-christie/An-Investigation-Into-the-Use-of-IoTs-to-Automate-the-Operation-of-the-NSWMA)**: A research project analysing operational inefficiencies in Jamaica's NSWMA, proposing IoT-driven solutions to optimise garbage collection and improve waste management operations.
   
-
 Thank you for stopping by! Let's connect and build something awesome together. 🚀
