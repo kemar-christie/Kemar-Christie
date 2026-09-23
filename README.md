@@ -2,7 +2,7 @@
 
 <img width="1000" height="585" alt="My Business Card MAIN   RESIZED (GitHub Readme Background)" src="https://github.com/user-attachments/assets/ebab5617-ffac-4227-ab7b-57369ea44815" />
 
-Detail-oriented **Junior Quality Assurance Engineer** with **1 year** of hands-on experience in **software testing and a strong focus on delivering high-quality applications**. Experienced in both **manual** and **automated** testing across **web** and **mobile** platforms, with practical exposure to tools such as **Playwright, Appium, Selenium WebDriver, qTest, Cucumber, and REST Assured**. Proficient in **Java, JavaScript, TypeScript, and SQL**, with additional scripting experience in **Bash** and **PowerShell**. Knowledgeable in CI/CD pipelines and DevOps practices, with experience in cloud environments, including **Google Cloud Platform (GCP)**. A collaborative team player with experience using **Jira, Trello, Git, and GitHub** for defect tracking and version control, as well as design tools to support UI/UX validation. Skilled at leveraging AI tools to improve testing workflows, automation efficiency, and development productivity.
+Detail-oriented **Junior Quality Assurance Engineer** with **1 year** of hands-on experience in **software testing** and a strong focus on **delivering high-quality applications**. Experienced in both **manual** and **automated** testing across **web** and **mobile** platforms, with practical exposure to tools such as **Playwright, Appium, Selenium WebDriver, qTest, Cucumber, BrowserStack, and Burp Suite**. Proficient in **Java, JavaScript, TypeScript, and SQL**, with additional scripting experience in **Bash** and **PowerShell**. Knowledgeable in CI/CD pipelines and DevOps practices, with experience in cloud environments, including **Google Cloud Platform (GCP)**. A collaborative team player with experience using **Jira, Trello, Git, and GitHub** for defect tracking and version control, as well as design tools to support UI/UX validation. Skilled at leveraging AI tools to improve testing workflows, automation efficiency, and development productivity.
 
 ---
 
@@ -21,11 +21,11 @@ Detail-oriented **Junior Quality Assurance Engineer** with **1 year** of hands-o
 - 📜 **Scripting Languages:** Bash, PowerShell
 - 🗄️ **Databases:** PostgreSQL, MySQL
 - ☁️ **Cloud Computing Tools:** Google Cloud Platform (GCP)
-- 🧪 **Testing & Automation Tools:** Playwright, Appium, Selenium WebDriver, qTest, Cucumber, REST Assured, TestNG, JUnit, Postman, Newman CLI, Swagger, Charles Proxy, Allure
+- 🧪 **Testing & Automation Tools:** Playwright, Appium, Selenium WebDriver, qTest, Cucumber, REST Assured, TestNG, JUnit, Postman, Newman CLI, Swagger, BrowserStack, Burp Suite, Charles Proxy, Allure
 - ⚙️ **CI/CD & DevOps Tools:** Jenkins, Docker
-- 🤖 **AI Tools:** Claude Code, GitHub Copilot
+- 🤖 **AI Tools:** Claude Code, Codex
 - 🛠️ **Developer & Collaboration Tools:** Jira, Trello, Git, GitHub, Draw.io, Figma
-- 🧱 **Operating Systems:** MacOS, Windows
+- 🧱 **Operating Systems:** macOS, Windows
 
 ---
 
