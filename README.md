@@ -7,9 +7,9 @@ Detail-oriented **Junior Quality Assurance Engineer** with **1 year** of hands-o
 ---
 
 ### About Me
-- 🌐 Based in **Kingston, Jamaica**, I graduated from the **University of Technology, Jamaica (UTech)**, holding a **Bachelor of Science (BSc.) in Computing**, with a major in **Computer Science**.
+- 🌐 Based in **Kingston, Jamaica**.
 - 💡 Passionate about **expanding my knowledge in Quality Assurance (QA)**, with a growing foundation in **Manual & Automated Testing** and a keen eye for **software reliability** and **performance testing**.
-- ✏️ I enjoy **researching** emerging technologies, **listening** to tech podcasts, and **following** QA development trends.
+- ✏️ I enjoy **researching** emerging technologies and **following** QA development trends.
 - 🤝 Committed to **mentoring and guiding youth in tech**.
 - 🔊 I love **listening to tech podcasts** for daily inspiration and insights into technological advancements.
 - ☀️ You can call me "**Kemar**"!
@@ -26,6 +26,40 @@ Detail-oriented **Junior Quality Assurance Engineer** with **1 year** of hands-o
 - 🤖 **AI Tools:** Claude Code, Codex
 - 🛠️ **Developer & Collaboration Tools:** Jira, Trello, Git, GitHub, Draw.io, Figma
 - 🧱 **Operating Systems:** macOS, Windows
+
+---
+
+### Experience
+- 💼 **Quality Assurance Engineer** | PetSmart ~ Contract | Apr 2026 - Present | Remote, Remote
+  - Contracted Through Grid Dynamics
+- 💼 **Junior Quality Assurance Engineer** | Grid Dynamics Jamaica Limited (GDJL) ~ Full-time | Apr 2026 - Present | Kingston, Jamaica
+  - Execute manual test cases for assigned features and modules, contributing to the comprehensive testing of software applications and overall delivery quality.
+  - Assist in creating test plans, test cases, and test reports under the guidance of senior QA team members, adhering to standard documentation practices.
+  - Analyse test results and report defects to senior team members with detailed information to support efficient troubleshooting and resolution.
+  - Provide regular progress updates to senior team members and present work outcomes while supporting interns in resolving basic technical issues.
+  - Continuously improve theoretical knowledge and apply best practices to deliver high-quality work with urgency and confidence.
+- 💼 **Quality Assurance Engineer Intern** | Grid Dynamics Jamaica Limited (GDJL) ~ Internship | Jun 2025 - Dec 2025 | Kingston, Jamaica
+  - Completed a structured QA learning path covering software testing fundamentals, test case design, and defect reporting.
+  - Performed manual and automated testing to validate application functionality and identify defects.
+  - Documented test cases, test results, and defects in accordance with standard QA practices.
+  - Delivered structured presentations to mentors following each major QA module to communicate learning outcomes and reinforce testing concepts.
+
+---
+
+### Education
+- 🎓 **BSc. in Computing - Major: Computer Science** | University of Technology | Aug 2020 - Nov 2025 | Kingston, Jamaica | GPA: 3.1/4.0
+
+---
+
+### Certifications
+- 🏅 The Linux Command Line Bootcamp: Beginner To Power User - Udemy (Sep 2026)
+- 🏅 Introduction to Computer Networking - Beginner Crash Course - Udemy (Sep 2026)
+- 🏅 Learn Bug Bounty Hunting & Web Security Testing From Scratch - Udemy (Sep 2026)
+- 🏅 DevOps Learn Agile CI/CD Process for Professionals and Teams - Udemy (Nov 2025)
+- 🏅 Relational Databases & SQL: Complete Guide for Developers - Udemy (Oct 2025)
+- 🏅 Cloud Digital Leader - Google Cloud (Sep 2025)
+- 🏅 API Security Fundamentals '25 - APIsec University (Jul 2025)
+- 🏅 OWASP Top 10 - Snyk (Jul 2025)
 
 ---
 
