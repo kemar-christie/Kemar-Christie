@@ -16,7 +16,7 @@ Detail-oriented **Junior Quality Assurance Engineer** with **1 year** of hands-o
 
 ---
 
-### Skills
+### Technical Skills
 - 👨🏽‍💻 **Programming Languages:** Java, JavaScript, TypeScript, SQL
 - 📜 **Scripting Languages:** Bash, PowerShell
 - 🗄️ **Databases:** PostgreSQL, MySQL
@@ -52,19 +52,7 @@ Detail-oriented **Junior Quality Assurance Engineer** with **1 year** of hands-o
 ---
 
 ### Certifications
-- 🏅 The Linux Command Line Bootcamp: Beginner To Power User - Udemy (Sep 2026)
-- 🏅 Introduction to Computer Networking - Beginner Crash Course - Udemy (Sep 2026)
-- 🏅 Learn Bug Bounty Hunting & Web Security Testing From Scratch - Udemy (Sep 2026)
-- 🏅 DevOps Learn Agile CI/CD Process for Professionals and Teams - Udemy (Nov 2025)
-- 🏅 Relational Databases & SQL: Complete Guide for Developers - Udemy (Oct 2025)
 - 🏅 Cloud Digital Leader - Google Cloud (Sep 2025)
-- 🏅 API Security Fundamentals '25 - APIsec University (Jul 2025)
-- 🏅 OWASP Top 10 - Snyk (Jul 2025)
-
----
-
-### Current Focus
-- 🚀 Building expertise in **Quality Assurance (QA)** with an emphasis on **software testing and issue tracking**.
 
 ---
 
